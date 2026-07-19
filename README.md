@@ -7,7 +7,7 @@
 Artificial Intelligence Engineering undergraduate in Egypt with a **3.85/4.0 GPA**, focused on building practical AI, computer vision, RAG, data engineering, and business intelligence solutions.
 
 [![Email](https://img.shields.io/badge/Email-tarekamr737%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarekamr737@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-amr737/)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/tarekamr737?tab=repositories)
 
 </div>
